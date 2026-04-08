@@ -128,7 +128,7 @@ body {
 .herocon .heroimg {
   width: 80%;
   height: 60%;
-  background-image: url("src/assets/pngimg.com - mavic_PNG7.png");
+  background-image: url("/public/pngimg.com - mavic_PNG7.png");
   background-position: center;
   background-size: cover;
   position: absolute;
