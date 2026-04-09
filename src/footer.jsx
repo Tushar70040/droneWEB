@@ -56,16 +56,16 @@ export default function Footer(){
                     </div>
                     <div className="social">
                         <div className="socials">
-                            <img src="src/icons/8f24c284378a0920e6df15c87c4b9b59.png" width={"24px"}/>
+                            <img src="/public/icons/8f24c284378a0920e6df15c87c4b9b59.png" width={"24px"}/>
                         </div>
                         <div className="socials">
-                             <img src="src/icons/51bab9bb7867de27a68b9ea14ae8f8b3.png" width={"24px"}/>
+                             <img src="/public/icons/51bab9bb7867de27a68b9ea14ae8f8b3.png" width={"24px"}/>
                         </div>
                         <div className="socials">
-                             <img src="src/icons/793cb64aaae69d1dd1b478336fd1b42e.png" width={"24px"}/>
+                             <img src="/public/icons/793cb64aaae69d1dd1b478336fd1b42e.png" width={"24px"}/>
                         </div>
                         <div className="socials">
-                             <img src="src/icons/f973c01f1a95ba549a2e54b60a0e90a1.png"  width={"24px"}/>
+                             <img src="/public/icons/f973c01f1a95ba549a2e54b60a0e90a1.png"  width={"24px"}/>
                         </div>
 
                     </div>

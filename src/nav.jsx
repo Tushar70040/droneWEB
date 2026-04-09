@@ -4,7 +4,7 @@ export default function Nav(){
          <nav className="nav">
             <div className="icon">
                 <div className="drone">
-                    <img className="logo" src="public/Free-drone-icon-vector-png.png" width="100"/>
+                    <img className="logo" src="/public/Free-drone-icon-vector-png.png" width="100"/>
                     
                 </div>
                 <h2>DRONE</h2>
