@@ -280,7 +280,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: linear-gradient(to top, #00000058, #00000069, #00000092, #000000), url("src/assets/andrew-kliatskyi-Ad199MLrw4s-unsplash - Copy.jpg");
+  background-image: linear-gradient(to top, #00000058, #00000069, #00000092, #000000), url("public/andrew-kliatskyi-Ad199MLrw4s-unsplash - Copy.jpg");
   background-position: center;
   background-size: cover;
 }
