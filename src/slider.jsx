@@ -4,25 +4,25 @@ export default function Slide() {
 
   const slides = [
     {
-      image: "src/dji/28ac11d2cd74449c07514af6a04599c5.jpg",
+      image: "public/dji/28ac11d2cd74449c07514af6a04599c5.jpg",
       title: "Surveillance",
       description:
         "DJI Mavic drones provide stable aerial monitoring with GPS and intelligent flight systems. They are suitable for area inspection, patrols, and real-time observation.",
     },
     {
-      image: "src/dji/f1ee918b499793fe3d4372cf8ee18353.jpg",
+      image: "public/dji/f1ee918b499793fe3d4372cf8ee18353.jpg",
       title: "Camera",
       description:
         "The drone features a high-resolution camera with 3-axis gimbal stabilization for smooth images and videos. It captures detailed photos and 4K-quality footage.",
     },
     {
-      image: "src/dji/62a25723a9f9293fb0aabb84ebebe919.jpg",
+      image: "public/dji/62a25723a9f9293fb0aabb84ebebe919.jpg",
       title: "Security",
       description:
         "DJI Mavic drones use encrypted data transmission and precise GPS tracking. These features help protect footage and ensure safe, controlled operations.",
     },
     {
-      image: "src/dji/55ad852d0a627fcefad499922183b57b.jpg",
+      image: "public/dji/55ad852d0a627fcefad499922183b57b.jpg",
       title: "Portability",
       description:
         "The Mavic has a lightweight, foldable design that is easy to carry and store. It allows quick deployment for travel and field use.",

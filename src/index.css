@@ -216,7 +216,7 @@ body {
     }
 
     .abtimg {
-      background-image: url("src/dji/ae5d8b9987be8d5ecdeb5d502a1e887c.png");
+      background-image: url("public/ae5d8b9987be8d5ecdeb5d502a1e887c.png");
       background-position: center;
       background-size: cover;
       position: absolute;
@@ -564,7 +564,7 @@ hr {
 
     height: 100%;
     width: 60%;
-    background-image: linear-gradient(to right, #ffffff00, #ffffff00, #000000bc, #000000), url("src/assets/d047917728ac6f6bdab94cef9d122cc1.jpg");
+    background-image: linear-gradient(to right, #ffffff00, #ffffff00, #000000bc, #000000), url("public/d047917728ac6f6bdab94cef9d122cc1.jpg");
     background-position: left;
 
     border-radius: 70px;
